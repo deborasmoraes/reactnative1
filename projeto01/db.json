@@ -1,0 +1,70 @@
+{
+    "clientes":[{
+        "id":1,
+        "nome":"Rodrigo André Arendt",
+        "email": "rodrigo.arendt@hotmail.com",
+        "fone":"(44) 99935-3491"
+    },
+    {
+        "id":2,
+        "nome":"Nickolas Xisto Machado",
+        "email": "nickisback1@gmail.com",
+        "fone":"(47) 99953-5722"
+    },
+    {
+        "id":3,
+        "nome":"Valdelice Santana Moraes",
+        "email": "val255@hotmail.com",
+        "fone":"(21) 99260-1522"
+    },
+    {
+        "id":4,
+        "nome":"Sabrina Luísa Zimmermann",
+        "email": "sabzimme@outlook.com",
+        "fone":"(19) 99190-6331"
+    },
+    {
+        "id":5,
+        "nome":"Vitor Ezri Sousa",
+        "email": "ezri89@gmail.com",
+        "fone":"(19) 999632-5584"
+    }
+],
+    "produtos":[{
+        "id":1,
+        "nome":"Cadeira De Praia Verão",
+        "estoque": "31",
+        "precovar":"R$75,40",
+        "precoatacado":"R$67,60"
+    },
+    {
+        "id":2,
+        "nome":"Aliança Casal Moeda Antiga",
+        "estoque": "50",
+        "precovar":"R$82,30",
+        "precoatacado":"R$75,22"
+    },
+    {
+        "id":3,
+        "nome":"Garrafa Térmica Conserva",
+        "estoque": "25",
+        "precovar":"R$47,50",
+        "precoatacado":"R$40,65"
+    },
+    {
+        "id":4,
+        "nome":"Casaco Moletom Estampado",
+        "estoque": "33",
+        "precovar":"R$110,90",
+        "precoatacado":"R$99,90"
+    },
+    {
+        "id":5,
+        "nome":"Ármario Multiuso Cozinha",
+        "estoque": "15",
+        "precovar":"R$147,89",
+        "precoatacado":"R$132,43"
+    }
+
+    ]
+}
